@@ -1,0 +1,37 @@
+{
+    "short name":"Arrivals",
+    "name":"Sky-flight Arrivals",
+    "description":"PWA project",
+    "icon":[{
+        "src":"launcher-icon.png",
+        "sizes":"48*48",
+        "type":"image/png"
+    },
+    {
+        "src":"launcher-icon-96.png",
+        "sizes":"96*96",
+        "type":"image/png"
+        
+    },
+    {
+        "src":"launcher-icon-144.png",
+        "sizes":"144*144",
+        "type":"image/png"
+    },
+    {
+        "src":"launcher-icon-192.png",
+        "sizes":"192*192",
+        "type":"image/png"
+    },
+    {
+        "src":"launcher-icon-256.png",
+        "sizes":"256*256",
+        "type":"image/png"
+    }
+    ],
+    "start-url":"./?utm_source=web-app-manifest",
+    "display":"standalone",
+    "orientation":"Portrait",
+    "background-color":"light blue",
+    "theme-color":"silver"
+}
